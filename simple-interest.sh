@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additonal Authors:
-# <your Github username>
+# ha-rcache-C0
 
 # Input:
 # p, principal amount
