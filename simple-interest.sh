@@ -3,8 +3,8 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Additonal Authors:
-# ha-rcache-C0
+## Additonal Authors:
+## ha-rcache-C0
 
 # Input:
 # p, principal amount
